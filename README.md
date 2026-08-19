@@ -127,63 +127,158 @@ network activity and identifying potential data-exfiltration behavior.
 
 <p align="center">
 
+<a href="https://www.linux.org/" target="_blank">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</a>
+
+<a href="https://www.kali.org/" target="_blank">
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
+</a>
+
+<a href="https://nmap.org/" target="_blank">
 <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge">
+</a>
+
+<a href="https://www.wireshark.org/" target="_blank">
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+</a>
+
+<a href="https://portswigger.net/burp" target="_blank">
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge">
+</a>
+
+<a href="https://scapy.net/" target="_blank">
 <img src="https://img.shields.io/badge/Scapy-2C2C2C?style=for-the-badge&logo=python&logoColor=white">
+</a>
 
 </p>
+
 
 ### 💻 Programming & Development
 
 <p align="center">
 
+<a href="https://www.python.org/" target="_blank">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</a>
+
+<a href="https://react.dev/" target="_blank">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</a>
+
+<a href="https://nodejs.org/" target="_blank">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+</a>
+
+<a href="https://expressjs.com/" target="_blank">
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+</a>
+
+<a href="https://fastapi.tiangolo.com/" target="_blank">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+</a>
 
 </p>
+
+
+
+### 🌐 Networking
 
 ### 🌐 Networking
 
 <p align="center">
 
+<a href="https://www.cloudflare.com/learning/network-layer/what-is-tcp-ip/" target="_blank">
 <img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge">
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTTP" target="_blank">
 <img src="https://img.shields.io/badge/HTTP-005571?style=for-the-badge">
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTTPS" target="_blank">
 <img src="https://img.shields.io/badge/HTTPS-0A66C2?style=for-the-badge">
+</a>
+
+<a href="https://www.cloudflare.com/learning/dns/what-is-dns/" target="_blank">
 <img src="https://img.shields.io/badge/DNS-4285F4?style=for-the-badge">
+</a>
+
+<a href="https://www.cloudflare.com/learning/network-layer/what-is-dhcp/" target="_blank">
 <img src="https://img.shields.io/badge/DHCP-0066CC?style=for-the-badge">
+</a>
+
+<a href="https://www.cloudflare.com/learning/network-layer/what-is-arp/" target="_blank">
 <img src="https://img.shields.io/badge/ARP-444444?style=for-the-badge">
+</a>
+
+</p>
 
 </p>
 
 ### 🗄️ Databases
 
+### 🗄️ Databases
+
 <p align="center">
 
+<a href="https://www.mysql.com/" target="_blank">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</a>
+
+<a href="https://www.sqlite.org/" target="_blank">
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+</a>
 
 </p>
+
+
 
 ### 🧰 Tools
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+### 🧰 Tools
 
+<p align="center">
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</a>
+
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</a>
+
+</p>
 </p>
 ---
 
@@ -205,26 +300,6 @@ can be turned into a practical defensive or investigative solution.
 
 > **Understanding the attacker helps build better defenses.**
 ---
-
-<div align="center">
-
-# 🐍 Contribution Activity
-
-<img src="https://raw.githubusercontent.com/prasad-sec/prasad-sec/output/github-contribution-grid-snake-dark.svg">
-
-</div>
----
-
-<div align="center">
-
-# 🐍 Contribution Activity
-
-<img src="https://raw.githubusercontent.com/prasad-sec/prasad-sec/output/github-contribution-grid-snake-dark.svg">
-
-</div>
----
-
-<div align="center">
 
 # 🧠 Learning by Building
 
