@@ -29,7 +29,6 @@ of repositories on my profile.
 
 I like approaching security from both sides of the problem.
 
-```text
 Understand the attacker
         ↓
 Identify the attack surface
@@ -40,14 +39,6 @@ Build a defensive solution
         ↓
 Test and improve the solution
 
-# Step 6 — Explain your two projects
-
-Don't apologize for having only two repositories.
-
-Make them the **centerpiece**.
-
-```md
----
 
 ## 🚀 Featured Projects
 
@@ -68,7 +59,6 @@ extraction and AI-assisted threat reasoning.
 
 **Focus:** Digital Forensics • Threat Analysis • Security Automation
 
-[View TRINETRA →](YOUR_TRINETRA_REPO_URL)
 ### 🌐 NetGuard Bharat
 
 **Real-time Cybersecurity Intelligence Platform**
@@ -78,7 +68,6 @@ suspicious network activity and potential data-exfiltration behavior.
 
 **Focus:** Network Security • Threat Detection • Security Visualization
 
-[View NetGuard Bharat →](YOUR_NETGUARD_REPO_URL)
 ---
 
 ## 🛠️ Technical Skills
