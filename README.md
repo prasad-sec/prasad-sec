@@ -22,38 +22,7 @@ Cybersecurity-focused Developer
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
-## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasad-sec&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-sec&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Cybersecurity-focused+Developer;Building+Security+Tools;Digital+Forensics+%7C+Threat+Analysis;Learning+by+Building+Real-World+Projects" />
-</p>
-
-<h1 align="center">Prasad Prashant Dabhekar 👋</h1>
-
-<p align="center">
-  Cybersecurity-focused Developer
-</p>
-
-<p align="center">
-  I build software around real-world cybersecurity problems.
-  <br>
-  Security • Development • Investigation
-</p>
-
-<p align="center">
-  <a href="https://github.com/prasad-sec">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/prasad-prashant-dabhekar-1a96893b9/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
----
-<div align="center">
 
 # 🚀 Featured Projects
 
