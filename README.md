@@ -60,10 +60,9 @@ AI-assisted threat reasoning.
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Digital_Forensics-00D9FF?style=for-the-badge&logoColor=black">
-<img src="https://img.shields.io/badge/Threat_Analysis-00D9FF?style=for-the-badge&logoColor=black">
-<img src="https://img.shields.io/badge/Security_Tooling-00D9FF?style=for-the-badge&logoColor=black">
-
+<img src="https://img.shields.io/badge/Digital_Forensics-8B5CF6?style=for-the-badge">
+<img src="https://img.shields.io/badge/Threat_Analysis-A855F7?style=for-the-badge">
+<img src="https://img.shields.io/badge/Security_Tooling-7C3AED?style=for-the-badge">
 </p>
 
 <p align="center">
@@ -103,11 +102,10 @@ network activity and identifying potential data-exfiltration behavior.
 ### ⚙️ Focus
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Network_Security-00D9FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/Threat_Detection-00D9FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/Data_Exfiltration-00D9FF?style=for-the-badge">
-
+  
+<img src="https://img.shields.io/badge/Network_Security-10B981?style=for-the-badge">
+<img src="https://img.shields.io/badge/Threat_Detection-14B8A6?style=for-the-badge">
+<img src="https://img.shields.io/badge/Data_Exfiltration-059669?style=for-the-badge">
 </p>
 
 <p align="center">
