@@ -249,11 +249,6 @@ network activity and identifying potential data-exfiltration behavior.
 </p>
 
 
-
-### 🧰 Tools
-
-<p align="center">
-
 ### 🧰 Tools
 
 <p align="center">
