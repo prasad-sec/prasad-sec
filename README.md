@@ -196,7 +196,6 @@ network activity and identifying potential data-exfiltration behavior.
 
 ### 🌐 Networking
 
-### 🌐 Networking
 
 <p align="center">
 
@@ -230,7 +229,6 @@ network activity and identifying potential data-exfiltration behavior.
 
 ### 🗄️ Databases
 
-### 🗄️ Databases
 
 <p align="center">
 
